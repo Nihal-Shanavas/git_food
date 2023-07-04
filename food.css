@@ -1,0 +1,173 @@
+body {
+    background-image: url(./images/fresh-meat-tomahawk-steak-old-wooden-board-dark-background-closeup.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding-bottom: 00px;
+    /* Add padding to the bottom of the body equal to the height of the footer */
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    height: 200px;
+    /* Increase the height value to make the background color more extensive */
+    margin-top: 50px;
+    /* Apply a margin to create additional space around the footer */
+    text-align: center;
+    position: sticky;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+header {
+    background-color: rgba(61, 49, 49, 0.514);
+
+    color: white;
+    font-family: 'Lilita One', cursive;
+    font-size: 30px;
+    margin-top: 40px;
+    position: sticky;
+    top: 10px;
+
+}
+
+.hd1 {
+    transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.hd2 {
+    transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.hd3 {
+    transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.hd4 {
+    transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.hd5 {
+    transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.hd6 {
+    transition: font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.hd1:hover {
+    color: red;
+    font-size: 50px;
+
+
+}
+
+.hd2:hover {
+    color: red;
+    font-size: 50px;
+}
+
+.hd3:hover {
+    color: red;
+    font-size: 50px;
+}
+
+.hd4:hover {
+    color: red;
+    font-size: 50px;
+}
+
+.hd5:hover {
+    color: red;
+    font-size: 50px;
+}
+
+.hd6:hover {
+    color: red;
+    font-size: 50px;
+}
+
+input {
+    border: 3px solid rgb(243, 243, 243);
+    border-radius: 40px;
+    height: 27px;
+    width: 300px;
+    margin-top: 40px;
+}
+
+h1 {
+    color: white;
+    font-size: 150px;
+    margin-left: 200px;
+    margin-top: 200px;
+
+}
+
+.first {
+    color: red;
+}
+
+h2 {
+    color: white;
+    font-size: 100px;
+}
+
+h3 {
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+img {
+    height: 350px;
+    width: 350px;
+    margin-left: 10px;
+}
+
+div {
+    float: left;
+}
+
+img {
+    border: 3px white solid;
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+h4 {
+    color: white;
+    font-size: 100px;
+}
+
+h5 {
+    color: white;
+    font-size: 30px;
+
+}
+
+.social-icons {
+    margin-left: 650px;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.social-icons a {
+    margin-right: 100px;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+p,
+p1 {
+    margin-top: 50px;
+    margin-left: 800px;
+
+}
